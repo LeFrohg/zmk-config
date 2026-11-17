@@ -15,4 +15,3 @@ include:
     artifact-name: klor_left_with_studio
   - board: nice_nano//zmk
     shield: klor_right
----
