@@ -15,3 +15,5 @@ include:
     artifact-name: klor_left_with_studio
   - board: nice_nano_v2
     shield: klor_right
+  - board: nice_nano_v2
+    shield: settings_reset
